@@ -1,0 +1,215 @@
+CRITICAL - 2024-03-26 17:02:59 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:01 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:02 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:02 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:03 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:03 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:03 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:38 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:03:47 --> Error: Class "App\Models\Model_auth" not found
+in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:04:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "v_login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_login.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_login', [], true)
+ 3 APPPATH\Controllers\Auth.php(22): view('v_login', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Auth->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+INFO - 2024-03-26 17:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-26 17:12:55 --> ErrorException: unlink(foto/1601116917_ba4a3e3fd9841cf88fd3.png): No such file or directory
+in APPPATH\Controllers\User.php on line 177.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/1601116917_ba4a3e3fd9841cf88fd3.png): No such file or directory', 'C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\app\\Controllers\\User.php', 177)
+ 2 APPPATH\Controllers\User.php(177): unlink('foto/1601116917_ba4a3e3fd9841cf88fd3.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\User->update('8')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:12:55 --> ErrorException: Uncaught Error: Call to undefined method CodeIgniter\Debug\ExceptionHandler::cleanPath() in C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\app\Views\errors\html\error_exception.php:33
+Stack trace:
+#0 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(258): include()
+#1 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#2 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(ErrorException), 500, 'C:\\Users\\Asus\\O...')
+#3 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+【Previous Exception】
+ErrorException
+unlink(foto/1601116917_ba4a3e3fd9841cf88fd3.png): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/160...', 'C:\\Users\\Asus\\O...', 177)
+#1 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\app\Controllers\User.php(177): unlink('foto/1601116917...')
+#2 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\User->update('8')
+#3 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#6 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\O...')
+#7 {main}
+in APPPATH\Views\errors\html\error_exception.php on line 33.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-03-26 17:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-26 17:19:21 --> ErrorException: unlink(foto/User.png): No such file or directory
+in APPPATH\Controllers\User.php on line 206.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/User.png): No such file or directory', 'C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\app\\Controllers\\User.php', 206)
+ 2 APPPATH\Controllers\User.php(206): unlink('foto/User.png')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\User->delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\OneDrive\\Documents\\Fajar Shodiq\\ci-news\\public\\index.php')
+CRITICAL - 2024-03-26 17:19:21 --> ErrorException: Uncaught Error: Call to undefined method CodeIgniter\Debug\ExceptionHandler::cleanPath() in C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\app\Views\errors\html\error_exception.php:33
+Stack trace:
+#0 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(258): include()
+#1 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#2 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(ErrorException), 500, 'C:\\Users\\Asus\\O...')
+#3 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown
+【Previous Exception】
+ErrorException
+unlink(foto/User.png): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/Use...', 'C:\\Users\\Asus\\O...', 206)
+#1 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\app\Controllers\User.php(206): unlink('foto/User.png')
+#2 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\User->delete('3')
+#3 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#6 C:\Users\Asus\OneDrive\Documents\Fajar Shodiq\ci-news\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Asus\\O...')
+#7 {main}
+in APPPATH\Views\errors\html\error_exception.php on line 33.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-03-26 17:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-26 17:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
